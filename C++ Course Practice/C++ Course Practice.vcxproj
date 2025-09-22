@@ -19,8 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="C++ Course Practice.cpp" />
     <ClCompile Include="DataInputAndOutput.cpp" />
     <ClCompile Include="FirstCppProgram.cpp" />
+    <ClCompile Include="NumberSystems.cpp" />
     <ClCompile Include="StatementsAndFunctions.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

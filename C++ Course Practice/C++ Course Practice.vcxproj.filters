@@ -16,6 +16,9 @@
     <Filter Include="Source Files\7 Modules">
       <UniqueIdentifier>{384f12f3-520c-4b8e-bfd1-92e8ee1242e2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\8 Modules">
+      <UniqueIdentifier>{fa85c9b7-8711-42a6-abf6-0243bec8f60b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataInputAndOutput.cpp">
@@ -26,6 +29,12 @@
     </ClCompile>
     <ClCompile Include="FirstCppProgram.cpp">
       <Filter>Source Files\7 Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberSystems.cpp">
+      <Filter>Source Files\8 Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="C++ Course Practice.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
