@@ -21,5 +21,8 @@
     <ClCompile Include="DataInputAndOutput.cpp">
       <Filter>Source Files\7 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="StatementsAndFunctions.cpp">
+      <Filter>Source Files\7 Modules</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
