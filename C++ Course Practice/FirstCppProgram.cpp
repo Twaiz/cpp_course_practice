@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int FirstCppProgram() {
 
 	std::cout << "Number1" << std::endl;
 	std::cout << "Number2" << std::endl;
