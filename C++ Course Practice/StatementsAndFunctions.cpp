@@ -5,7 +5,7 @@ int addNumbers(int first_param, int second_param) {
 	return result;
 }
 
-int main() {
+int StatementsAndFunctions() {
 
 	int first_number{ 13 }; // Statement
 	int second_number{ 7 };
