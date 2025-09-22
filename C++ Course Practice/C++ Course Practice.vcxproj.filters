@@ -37,4 +37,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NumberSystems.h">
+      <Filter>Source Files\8 Modules</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

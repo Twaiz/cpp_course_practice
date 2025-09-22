@@ -25,6 +25,9 @@
     <ClCompile Include="NumberSystems.cpp" />
     <ClCompile Include="StatementsAndFunctions.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NumberSystems.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
