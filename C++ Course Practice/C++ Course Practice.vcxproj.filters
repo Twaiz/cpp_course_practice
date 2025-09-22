@@ -13,10 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\7 Modules">
+      <UniqueIdentifier>{384f12f3-520c-4b8e-bfd1-92e8ee1242e2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C++ Course Practice.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="DataInputAndOutput.cpp">
+      <Filter>Source Files\7 Modules</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
