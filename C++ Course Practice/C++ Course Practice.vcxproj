@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataInputAndOutput.cpp" />
+    <ClCompile Include="FirstCppProgram.cpp" />
     <ClCompile Include="StatementsAndFunctions.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
