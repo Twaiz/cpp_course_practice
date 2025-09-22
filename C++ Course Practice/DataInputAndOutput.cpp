@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main() {
+int DataInputAndOutput() {
 	//Printing data
 	/*
 	std::cout << "Hello C++20 " << std::endl;
