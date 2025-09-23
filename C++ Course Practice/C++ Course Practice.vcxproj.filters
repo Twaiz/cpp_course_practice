@@ -39,12 +39,18 @@
     <ClCompile Include="IntegerTypes.cpp">
       <Filter>Source Files\8 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="IntegerModifiers.cpp">
+      <Filter>Source Files\8 Modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NumberSystems.h">
       <Filter>Source Files\8 Modules</Filter>
     </ClInclude>
     <ClInclude Include="IntegerTypes.h">
+      <Filter>Source Files\8 Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="IntegerModifiers.h">
       <Filter>Source Files\8 Modules</Filter>
     </ClInclude>
   </ItemGroup>

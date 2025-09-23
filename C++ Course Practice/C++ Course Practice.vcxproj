@@ -22,11 +22,13 @@
     <ClCompile Include="C++ Course Practice.cpp" />
     <ClCompile Include="DataInputAndOutput.cpp" />
     <ClCompile Include="FirstCppProgram.cpp" />
+    <ClCompile Include="IntegerModifiers.cpp" />
     <ClCompile Include="IntegerTypes.cpp" />
     <ClCompile Include="NumberSystems.cpp" />
     <ClCompile Include="StatementsAndFunctions.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="IntegerModifiers.h" />
     <ClInclude Include="IntegerTypes.h" />
     <ClInclude Include="NumberSystems.h" />
   </ItemGroup>
