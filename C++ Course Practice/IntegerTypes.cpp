@@ -65,7 +65,6 @@ int IntegerTypes() {
 	//Check the size with sizeof
 	std::cout << "sizeof int : " << sizeof(int) << std::endl;
 	std::cout << "sizeof truck_count : " << sizeof(truck_count) << std::endl;
-	return 0;
 
 	return 0;
 }
