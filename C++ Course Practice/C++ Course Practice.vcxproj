@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Booleans.cpp" />
     <ClCompile Include="C++ Course Practice.cpp" />
     <ClCompile Include="DataInputAndOutput.cpp" />
     <ClCompile Include="FirstCppProgram.cpp" />
