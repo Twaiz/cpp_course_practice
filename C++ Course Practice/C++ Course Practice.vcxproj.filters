@@ -51,6 +51,9 @@
     <ClCompile Include="Booleans.cpp">
       <Filter>Source Files\8 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="CharactersAndText.cpp">
+      <Filter>Source Files\8 Modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NumberSystems.h">
