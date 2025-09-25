@@ -45,6 +45,9 @@
     <ClCompile Include="FractionalNumbers.cpp">
       <Filter>Source Files\8 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson46.cpp">
+      <Filter>Source Files\8 Modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NumberSystems.h">
