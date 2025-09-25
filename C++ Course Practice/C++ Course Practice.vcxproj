@@ -33,6 +33,7 @@
     <ClInclude Include="FractionalNumbers.h" />
     <ClInclude Include="IntegerModifiers.h" />
     <ClInclude Include="IntegerTypes.h" />
+    <ClInclude Include="Lesson46.h" />
     <ClInclude Include="NumberSystems.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
