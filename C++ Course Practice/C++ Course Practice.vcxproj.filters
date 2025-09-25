@@ -74,5 +74,8 @@
     <ClInclude Include="Booleans.h">
       <Filter>Source Files\8 Modules</Filter>
     </ClInclude>
+    <ClInclude Include="CharactersAndText.h">
+      <Filter>Source Files\8 Modules</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

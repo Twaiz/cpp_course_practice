@@ -33,6 +33,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Booleans.h" />
+    <ClInclude Include="CharactersAndText.h" />
     <ClInclude Include="FractionalNumbers.h" />
     <ClInclude Include="IntegerModifiers.h" />
     <ClInclude Include="IntegerTypes.h" />
