@@ -42,6 +42,9 @@
     <ClCompile Include="IntegerModifiers.cpp">
       <Filter>Source Files\8 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="FractionalNumbers.cpp">
+      <Filter>Source Files\8 Modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NumberSystems.h">
