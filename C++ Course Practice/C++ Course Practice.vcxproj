@@ -31,6 +31,7 @@
     <ClCompile Include="Lesson46.cpp" />
     <ClCompile Include="NumberSystems.cpp" />
     <ClCompile Include="PrecedenceAndAssociativity.cpp" />
+    <ClCompile Include="PrefixPostfixIncrementDecrement.cpp" />
     <ClCompile Include="StatementsAndFunctions.cpp" />
   </ItemGroup>
   <ItemGroup>
