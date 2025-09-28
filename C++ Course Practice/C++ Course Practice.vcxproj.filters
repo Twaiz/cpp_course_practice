@@ -19,6 +19,12 @@
     <Filter Include="Source Files\8 Modules">
       <UniqueIdentifier>{fa85c9b7-8711-42a6-abf6-0243bec8f60b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Practice">
+      <UniqueIdentifier>{1ad8e956-428f-48fd-8ba5-5cf38f191c53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\9 Modules">
+      <UniqueIdentifier>{0cae520e-2018-4eea-927a-1413d6893df3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataInputAndOutput.cpp">
@@ -53,6 +59,9 @@
     </ClCompile>
     <ClCompile Include="CharactersAndText.cpp">
       <Filter>Source Files\8 Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicOperations.cpp">
+      <Filter>Source Files\9 Modules</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
