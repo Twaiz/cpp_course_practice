@@ -75,6 +75,9 @@
     <ClCompile Include="RelationalOperators.cpp">
       <Filter>Source Files\9 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="LogicalOperators.cpp">
+      <Filter>Source Files\9 Modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NumberSystems.h">
