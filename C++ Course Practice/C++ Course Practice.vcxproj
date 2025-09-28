@@ -33,6 +33,7 @@
     <ClCompile Include="StatementsAndFunctions.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="9Modules.h" />
     <ClInclude Include="Booleans.h" />
     <ClInclude Include="CharactersAndText.h" />
     <ClInclude Include="FractionalNumbers.h" />
