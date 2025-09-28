@@ -39,7 +39,7 @@
     <ClCompile Include="NumberSystems.cpp">
       <Filter>Source Files\8 Modules</Filter>
     </ClCompile>
-    <ClCompile Include="C++ Course Practice.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="IntegerTypes.cpp">

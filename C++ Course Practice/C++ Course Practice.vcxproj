@@ -21,7 +21,7 @@
   <ItemGroup>
     <ClCompile Include="BasicOperations.cpp" />
     <ClCompile Include="Booleans.cpp" />
-    <ClCompile Include="C++ Course Practice.cpp" />
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="CharactersAndText.cpp" />
     <ClCompile Include="DataInputAndOutput.cpp" />
     <ClCompile Include="FirstCppProgram.cpp" />
