@@ -69,6 +69,9 @@
     <ClCompile Include="PrefixPostfixIncrementDecrement.cpp">
       <Filter>Source Files\9 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="CompoundAssigmentOperators.cpp">
+      <Filter>Source Files\9 Modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NumberSystems.h">

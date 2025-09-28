@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="BasicOperations.cpp" />
     <ClCompile Include="Booleans.cpp" />
+    <ClCompile Include="CompoundAssigmentOperators.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="CharactersAndText.cpp" />
     <ClCompile Include="DataInputAndOutput.cpp" />
