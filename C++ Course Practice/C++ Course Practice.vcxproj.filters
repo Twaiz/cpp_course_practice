@@ -89,7 +89,7 @@
     <ClInclude Include="CharactersAndText.h">
       <Filter>Source Files\8 Modules</Filter>
     </ClInclude>
-    <ClInclude Include="9Modules.h">
+    <ClInclude Include="9Module.h">
       <Filter>Source Files\9 Modules</Filter>
     </ClInclude>
   </ItemGroup>
