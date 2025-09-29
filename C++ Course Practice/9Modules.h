@@ -4,3 +4,4 @@ int PrecedenceAndAssociativity();
 int PrefixPostfixIncrementDecrement();
 int CompoundAssigmentOperators();
 int RelationalOperators();
+int LogicalOperators();
