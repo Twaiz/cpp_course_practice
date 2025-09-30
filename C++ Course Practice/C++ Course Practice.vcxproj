@@ -33,6 +33,7 @@
     <ClCompile Include="IntegerTypes.cpp" />
     <ClCompile Include="Lesson46.cpp" />
     <ClCompile Include="NumberSystems.cpp" />
+    <ClCompile Include="OutputFormatting.cpp" />
     <ClCompile Include="PrecedenceAndAssociativity.cpp" />
     <ClCompile Include="PrefixPostfixIncrementDecrement.cpp" />
     <ClCompile Include="RelationalOperators.cpp" />
