@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="7Module.h" />
+    <ClInclude Include="8Module.h" />
     <ClInclude Include="9Modules.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
