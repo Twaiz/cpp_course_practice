@@ -5,7 +5,9 @@
 
 int main()
 {
-    std::cout << "Main Function - Start!" << std::endl;
+	std::cout << "Main Function - Start!" << std::endl;
 
-	LogicalOperators();
+	LesonExersice();
+
+	return 0;
 }
