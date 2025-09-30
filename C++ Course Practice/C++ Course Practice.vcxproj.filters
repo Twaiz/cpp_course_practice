@@ -90,7 +90,7 @@
     <ClCompile Include="MathFunctions.cpp">
       <Filter>Source Files\9 Modules</Filter>
     </ClCompile>
-    <ClCompile Include="WeirdintegralTypes.cpp">
+    <ClCompile Include="WeirdIntegralTypes.cpp">
       <Filter>Source Files\9 Modules</Filter>
     </ClCompile>
   </ItemGroup>
