@@ -78,6 +78,9 @@
     <ClCompile Include="LogicalOperators.cpp">
       <Filter>Source Files\9 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="66Leson.cpp">
+      <Filter>Source Files\9 Modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NumberSystems.h">

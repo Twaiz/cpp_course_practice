@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="66Leson.cpp" />
     <ClCompile Include="BasicOperations.cpp" />
     <ClCompile Include="Booleans.cpp" />
     <ClCompile Include="CompoundAssigmentOperators.cpp" />
