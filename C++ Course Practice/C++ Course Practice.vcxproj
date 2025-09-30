@@ -43,6 +43,7 @@
     <ClCompile Include="WeirdIntegralTypes.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="7Module.h" />
     <ClInclude Include="9Modules.h" />
     <ClInclude Include="Booleans.h" />
     <ClInclude Include="CharactersAndText.h" />

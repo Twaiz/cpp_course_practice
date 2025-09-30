@@ -119,5 +119,8 @@
     <ClInclude Include="9Modules.h">
       <Filter>Source Files\9 Modules</Filter>
     </ClInclude>
+    <ClInclude Include="7Module.h">
+      <Filter>Source Files\7 Modules</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
