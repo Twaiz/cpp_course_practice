@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+#include "9Modules.h"
 
 int MathFunctions() {
 	double weight{ 7.7 };
