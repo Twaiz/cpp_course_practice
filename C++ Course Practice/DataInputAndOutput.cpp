@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "7Module.h"
 
 int DataInputAndOutput() {
 	//Printing data
