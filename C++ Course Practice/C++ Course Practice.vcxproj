@@ -32,6 +32,7 @@
     <ClCompile Include="IntegerModifiers.cpp" />
     <ClCompile Include="IntegerTypes.cpp" />
     <ClCompile Include="Lesson46.cpp" />
+    <ClCompile Include="MathFunctions.cpp" />
     <ClCompile Include="NumberSystems.cpp" />
     <ClCompile Include="NumericLimits.cpp" />
     <ClCompile Include="OutputFormatting.cpp" />

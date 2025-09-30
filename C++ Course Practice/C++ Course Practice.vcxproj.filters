@@ -87,6 +87,9 @@
     <ClCompile Include="NumericLimits.cpp">
       <Filter>Source Files\9 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="MathFunctions.cpp">
+      <Filter>Source Files\9 Modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NumberSystems.h">
