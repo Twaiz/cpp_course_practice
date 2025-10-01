@@ -23,6 +23,7 @@
     <ClCompile Include="BasicOperations.cpp" />
     <ClCompile Include="Booleans.cpp" />
     <ClCompile Include="CompoundAssigmentOperators.cpp" />
+    <ClCompile Include="Literals.cpp" />
     <ClCompile Include="LogicalOperators.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="CharactersAndText.cpp" />
@@ -43,6 +44,7 @@
     <ClCompile Include="WeirdIntegralTypes.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="10Module.h" />
     <ClInclude Include="7Module.h" />
     <ClInclude Include="8Module.h" />
     <ClInclude Include="9Modules.h" />

@@ -25,6 +25,9 @@
     <Filter Include="Source Files\9 Modules">
       <UniqueIdentifier>{0cae520e-2018-4eea-927a-1413d6893df3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\10 Module">
+      <UniqueIdentifier>{9c4838a0-8ecf-429f-bf28-92331cd4a505}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataInputAndOutput.cpp">
@@ -93,6 +96,9 @@
     <ClCompile Include="WeirdIntegralTypes.cpp">
       <Filter>Source Files\9 Modules</Filter>
     </ClCompile>
+    <ClCompile Include="Literals.cpp">
+      <Filter>Source Files\10 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Modules.h">
@@ -103,6 +109,9 @@
     </ClInclude>
     <ClInclude Include="8Module.h">
       <Filter>Source Files\8 Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="10Module.h">
+      <Filter>Source Files\10 Module</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
