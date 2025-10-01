@@ -2,4 +2,4 @@
 int ConstantExpressions();
 int Constant();
 int Constinit();
-int Litetals();
+int Literals();
