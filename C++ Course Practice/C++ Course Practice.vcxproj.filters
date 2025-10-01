@@ -99,7 +99,7 @@
     <ClCompile Include="Literals.cpp">
       <Filter>Source Files\10 Module</Filter>
     </ClCompile>
-    <ClCompile Include="Constants.cpp">
+    <ClCompile Include="Constant.cpp">
       <Filter>Source Files\10 Module</Filter>
     </ClCompile>
     <ClCompile Include="ConstantExpressions.cpp">

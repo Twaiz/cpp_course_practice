@@ -24,7 +24,7 @@
     <ClCompile Include="Booleans.cpp" />
     <ClCompile Include="CompoundAssigmentOperators.cpp" />
     <ClCompile Include="ConstantExpressions.cpp" />
-    <ClCompile Include="Constants.cpp" />
+    <ClCompile Include="Constant.cpp" />
     <ClCompile Include="Literals.cpp" />
     <ClCompile Include="LogicalOperators.cpp" />
     <ClCompile Include="Main.cpp" />
