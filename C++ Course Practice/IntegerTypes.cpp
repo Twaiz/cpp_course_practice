@@ -1,5 +1,4 @@
 #include <iostream>
-#include "IntegerTypes.h"
 
 int IntegerTypes() {
 	//Braced initializers
