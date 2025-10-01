@@ -95,32 +95,14 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="NumberSystems.h">
-      <Filter>Source Files\8 Modules</Filter>
-    </ClInclude>
-    <ClInclude Include="IntegerTypes.h">
-      <Filter>Source Files\8 Modules</Filter>
-    </ClInclude>
-    <ClInclude Include="IntegerModifiers.h">
-      <Filter>Source Files\8 Modules</Filter>
-    </ClInclude>
-    <ClInclude Include="FractionalNumbers.h">
-      <Filter>Source Files\8 Modules</Filter>
-    </ClInclude>
-    <ClInclude Include="Lesson46.h">
-      <Filter>Source Files\8 Modules</Filter>
-    </ClInclude>
-    <ClInclude Include="Booleans.h">
-      <Filter>Source Files\8 Modules</Filter>
-    </ClInclude>
-    <ClInclude Include="CharactersAndText.h">
-      <Filter>Source Files\8 Modules</Filter>
-    </ClInclude>
     <ClInclude Include="9Modules.h">
       <Filter>Source Files\9 Modules</Filter>
     </ClInclude>
     <ClInclude Include="7Module.h">
       <Filter>Source Files\7 Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="8Module.h">
+      <Filter>Source Files\8 Modules</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
