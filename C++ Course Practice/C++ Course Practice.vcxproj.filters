@@ -102,6 +102,9 @@
     <ClCompile Include="Constants.cpp">
       <Filter>Source Files\10 Module</Filter>
     </ClCompile>
+    <ClCompile Include="ConstantExpressions.cpp">
+      <Filter>Source Files\10 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Modules.h">
