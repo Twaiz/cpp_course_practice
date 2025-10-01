@@ -1,7 +1,7 @@
 #include <iostream>
 #include "IntegerModifiers.h"
 
-int IntergerModifiers() {
+int IntegerModifiers() {
 
 	signed int value1{ 10 };
 	signed int value2{ -300 };
