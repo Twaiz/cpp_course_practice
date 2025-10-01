@@ -25,6 +25,7 @@
     <ClCompile Include="CompoundAssigmentOperators.cpp" />
     <ClCompile Include="ConstantExpressions.cpp" />
     <ClCompile Include="Constant.cpp" />
+    <ClCompile Include="Constinit.cpp" />
     <ClCompile Include="Literals.cpp" />
     <ClCompile Include="LogicalOperators.cpp" />
     <ClCompile Include="Main.cpp" />
