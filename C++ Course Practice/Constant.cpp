@@ -1,9 +1,8 @@
-#include "10Module.h"
 #include <iostream>
 
-int Constant()
-{
+#include "10Module.h"
 
+int Constant() {
     const int age{34};
     const float height{1.67f};
 
