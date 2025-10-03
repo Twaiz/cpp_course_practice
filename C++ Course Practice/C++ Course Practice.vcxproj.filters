@@ -123,4 +123,7 @@
       <Filter>Source Files\10 Module</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".clang-format" />
+  </ItemGroup>
 </Project>

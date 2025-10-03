@@ -52,6 +52,9 @@
     <ClInclude Include="8Module.h" />
     <ClInclude Include="9Modules.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".clang-format" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
