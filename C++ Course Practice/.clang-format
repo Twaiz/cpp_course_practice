@@ -1,11 +1,11 @@
-BasedOnStyle: LLVM
+BasedOnStyle: Google
 IndentWidth: 4
 TabWidth: 4
 UseTab: Never
-ColumnLimit: 120
+ColumnLimit: 100
 
-BreakBeforeBraces: Allman
 AllowShortIfStatementsOnASingleLine: false
 AllowShortLoopsOnASingleLine: false
 IndentCaseLabels: true
+BreakBeforeBraces: Attach
 SpaceAfterCStyleCast: true
