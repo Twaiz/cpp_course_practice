@@ -44,6 +44,7 @@
     <ClCompile Include="PrefixPostfixIncrementDecrement.cpp" />
     <ClCompile Include="RelationalOperators.cpp" />
     <ClCompile Include="StatementsAndFunctions.cpp" />
+    <ClCompile Include="TestShiftOperators.cpp" />
     <ClCompile Include="WeirdIntegralTypes.cpp" />
   </ItemGroup>
   <ItemGroup>
