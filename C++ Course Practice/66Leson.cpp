@@ -4,7 +4,7 @@
 
 int LesonExersice() {
 	double hexagon_area = ((3 * std::sqrt(3)) / 2) * (6.7 * 6.7);
-	int hexagon_area_int = std::round(hexagon_area);
+    int hexagon_area_int = static_cast<int>(std::round(hexagon_area));
 
 	std::cout << "Hexagon area (6.7 length): " << hexagon_area << std::endl;
 	std::cout << "Hexagon area (6.7 length - DEC): " << std::dec << hexagon_area_int << std::endl;
