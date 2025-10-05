@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="11Module.h" />
     <ClCompile Include="66Leson.cpp" />
     <ClCompile Include="BasicOperations.cpp" />
     <ClCompile Include="Booleans.cpp" />
@@ -26,6 +27,7 @@
     <ClCompile Include="ConstantExpressions.cpp" />
     <ClCompile Include="Constant.cpp" />
     <ClCompile Include="Constinit.cpp" />
+    <ClCompile Include="ImplicitDataConversions.cpp" />
     <ClCompile Include="Literals.cpp" />
     <ClCompile Include="LogicalOperators.cpp" />
     <ClCompile Include="Main.cpp" />
