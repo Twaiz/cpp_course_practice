@@ -1,12 +1,12 @@
 ﻿#include <iostream>
-#include "9Modules.h"
+#include "12Module.h"
 
 
 int main()
 {
 	std::cout << "Main Function - Start!" << std::endl;
 
-	LesonExersice();
+	TestShiftOperators();
 
 	return 0;
 }
