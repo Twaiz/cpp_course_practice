@@ -114,6 +114,9 @@
     <ClCompile Include="Constinit.cpp">
       <Filter>Source Files\10 Module</Filter>
     </ClCompile>
+    <ClCompile Include="TestShiftOperators.cpp">
+      <Filter>Source Files\12 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Modules.h">

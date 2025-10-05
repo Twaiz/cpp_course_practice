@@ -1,6 +1,7 @@
 #include <bitset>
 #include <iostream>
-#
+
+#include "12Module.h"
 
 int TestShiftOperators() {
     unsigned short int data = {10};
