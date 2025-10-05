@@ -28,6 +28,9 @@
     <Filter Include="Source Files\10 Module">
       <UniqueIdentifier>{9c4838a0-8ecf-429f-bf28-92331cd4a505}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\11 Module">
+      <UniqueIdentifier>{11019a39-9435-4915-8b53-7cf5c836bb4b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataInputAndOutput.cpp">
