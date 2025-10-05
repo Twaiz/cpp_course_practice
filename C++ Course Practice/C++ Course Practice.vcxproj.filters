@@ -31,6 +31,9 @@
     <Filter Include="Source Files\11 Module">
       <UniqueIdentifier>{11019a39-9435-4915-8b53-7cf5c836bb4b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\12 Module">
+      <UniqueIdentifier>{f342c6e4-4a9b-484c-8f2e-e37a00f321a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataInputAndOutput.cpp">
@@ -124,6 +127,9 @@
     </ClInclude>
     <ClInclude Include="10Module.h">
       <Filter>Source Files\10 Module</Filter>
+    </ClInclude>
+    <ClInclude Include="12Module.h">
+      <Filter>Source Files\12 Module</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
