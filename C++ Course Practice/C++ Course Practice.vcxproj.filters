@@ -123,6 +123,9 @@
     <ClCompile Include="11Module.h">
       <Filter>Source Files\11 Module</Filter>
     </ClCompile>
+    <ClCompile Include="PrintingIntegersInBinary.cpp">
+      <Filter>Source Files\12 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Modules.h">

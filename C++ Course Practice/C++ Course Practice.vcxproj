@@ -44,6 +44,7 @@
     <ClCompile Include="OutputFormatting.cpp" />
     <ClCompile Include="PrecedenceAndAssociativity.cpp" />
     <ClCompile Include="PrefixPostfixIncrementDecrement.cpp" />
+    <ClCompile Include="PrintingIntegersInBinary.cpp" />
     <ClCompile Include="RelationalOperators.cpp" />
     <ClCompile Include="StatementsAndFunctions.cpp" />
     <ClCompile Include="TestShiftOperators.cpp" />
