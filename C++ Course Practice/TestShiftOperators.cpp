@@ -15,5 +15,11 @@ int TestShiftOperators() {
     std::cout << data << std::endl;
     std::cout << std::bitset<16>(data) << std::endl;
 
+    data = {10};
+
+    data = static_cast<unsigned short int>(data << 1);
+    std::cout << data << std::endl;
+    std::cout << std::bitset<16>(data) << std::endl;
+
     return 0;
 }
