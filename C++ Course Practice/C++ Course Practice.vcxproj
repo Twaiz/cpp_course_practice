@@ -28,6 +28,7 @@
     <ClCompile Include="ConstantExpressions.cpp" />
     <ClCompile Include="Constant.cpp" />
     <ClCompile Include="Constinit.cpp" />
+    <ClCompile Include="ExplictDataConversions.cpp" />
     <ClCompile Include="ImplicitDataConversions.cpp" />
     <ClCompile Include="Literals.cpp" />
     <ClCompile Include="LogicalBitwiseOperators.cpp" />
