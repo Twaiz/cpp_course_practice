@@ -2,6 +2,8 @@
 #include <iomanip>
 #include <iostream>
 
+#include "12Module.h"
+
 int CompoundBitwiseAndAssignmentOperators() {
     const int COLUMN_WIDTH{20};
 
