@@ -1,6 +1,8 @@
 #include <bitset>
 #include <iostream>
 
+#include "12Module.h"
+
 int LogicalBitwiseOperators() {
     unsigned char data1 = {10};
     unsigned char data2 = {15};
