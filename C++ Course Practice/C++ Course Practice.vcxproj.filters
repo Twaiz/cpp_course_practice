@@ -135,6 +135,9 @@
     <ClCompile Include="CompoundBitwiseAndAssignmentOperators.cpp">
       <Filter>Source Files\12 Module</Filter>
     </ClCompile>
+    <ClCompile Include="Masks.cpp">
+      <Filter>Source Files\12 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Modules.h">
