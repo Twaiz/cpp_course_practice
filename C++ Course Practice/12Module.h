@@ -6,3 +6,5 @@ int LogicalBitwiseOperators();
 int CompoundBitwiseAndAssignmentOperators();
 int Masks();
 int TestMasks();
+int MasksExample();
+int PackingColorInformation();
