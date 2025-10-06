@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "9Modules.h"
+#include "9Module.h"
 
 int LesonExersice() {
 	double hexagon_area = ((3 * std::sqrt(3)) / 2) * (6.7 * 6.7);
