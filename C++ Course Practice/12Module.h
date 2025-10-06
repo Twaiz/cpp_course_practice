@@ -5,3 +5,4 @@ int ShiftOperators();
 int LogicalBitwiseOperators();
 int CompoundBitwiseAndAssignmentOperators();
 int Masks();
+int TestMasks();
