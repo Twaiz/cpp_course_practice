@@ -1,6 +1,8 @@
 #include <bitset>
 #include <iostream>
 
+#include "12Module.h"
+
 int ShiftOperators() {
     unsigned short int value{0xff0u};
 
