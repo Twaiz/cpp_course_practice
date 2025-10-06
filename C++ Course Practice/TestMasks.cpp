@@ -3,7 +3,7 @@
 
 #include "12Module.h"
 
-int Masks() {
+int TestMasks() {
     const unsigned char MASK1{0b00000001};  // Mask for bit 0
     const unsigned char MASK2{0b00000010};  // Mask for bit 1
     const unsigned char MASK3{0b00000100};  // Mask for bit 2
