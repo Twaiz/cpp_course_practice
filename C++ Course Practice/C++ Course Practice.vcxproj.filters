@@ -144,6 +144,9 @@
     <ClCompile Include="ExplictDataConversions.cpp">
       <Filter>Source Files\11 Module</Filter>
     </ClCompile>
+    <ClCompile Include="OverflowAndUnderflow.cpp">
+      <Filter>Source Files\11 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Modules.h">
