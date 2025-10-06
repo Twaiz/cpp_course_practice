@@ -4,3 +4,4 @@ int PrintIntegerInBinary();
 int ShiftOperators();
 int LogicalBitwiseOperators();
 int CompoundBitwiseAndAssignmentOperators();
+int Masks();
