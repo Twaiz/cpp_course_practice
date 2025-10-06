@@ -150,6 +150,9 @@
     <ClCompile Include="MasksExample.cpp">
       <Filter>Source Files\12 Module</Filter>
     </ClCompile>
+    <ClCompile Include="PackingColorInformation.cpp">
+      <Filter>Source Files\12 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Modules.h">
