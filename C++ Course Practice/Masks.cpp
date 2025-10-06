@@ -18,5 +18,10 @@ int Masks() {
     value |= MASK2;  // Set bit 1
     std::cout << "After setting bit 1: " << std::bitset<8>(value) << std::endl;
 
+    value ^= MASK2;  // Reset bit 1 - 1 Variant
+    std::cout << "After setting bit 1: " << std::bitset<8>(value) << std::endl;
+    value &= (~MASK2);  // Reset bit 1 - 2 Variant
+    std::cout << "After setting bit 1: " << std::bitset<8>(value) << std::endl;
+
     return 0;
 }
