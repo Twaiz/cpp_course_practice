@@ -64,7 +64,7 @@
     <ClInclude Include="12Module.h" />
     <ClInclude Include="7Module.h" />
     <ClInclude Include="8Module.h" />
-    <ClInclude Include="9Modules.h" />
+    <ClInclude Include="9Module.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".clang-format" />

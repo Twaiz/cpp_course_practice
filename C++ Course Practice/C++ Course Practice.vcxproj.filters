@@ -34,6 +34,9 @@
     <Filter Include="Source Files\12 Module">
       <UniqueIdentifier>{f342c6e4-4a9b-484c-8f2e-e37a00f321a3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\13 Module">
+      <UniqueIdentifier>{cdee0c21-691c-43ac-9a2c-a33138aed5d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataInputAndOutput.cpp">
@@ -155,7 +158,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="9Modules.h">
+    <ClInclude Include="9Module.h">
       <Filter>Source Files\9 Modules</Filter>
     </ClInclude>
     <ClInclude Include="7Module.h">
