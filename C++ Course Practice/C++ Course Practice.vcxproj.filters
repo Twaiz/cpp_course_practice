@@ -156,6 +156,9 @@
     <ClCompile Include="PackingColorInformation.cpp">
       <Filter>Source Files\12 Module</Filter>
     </ClCompile>
+    <ClCompile Include="VariableLifetime.cpp">
+      <Filter>Source Files\13 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">
@@ -172,6 +175,9 @@
     </ClInclude>
     <ClInclude Include="12Module.h">
       <Filter>Source Files\12 Module</Filter>
+    </ClInclude>
+    <ClInclude Include="13Module.h">
+      <Filter>Source Files\13 Module</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
