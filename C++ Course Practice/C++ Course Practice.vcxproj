@@ -47,6 +47,7 @@
     <ClCompile Include="MasksExample.cpp" />
     <ClCompile Include="OverflowAndUnderflow.cpp" />
     <ClCompile Include="PackingColorInformation.cpp" />
+    <ClCompile Include="Switch.cpp" />
     <ClCompile Include="TestMasks.cpp" />
     <ClCompile Include="MathFunctions.cpp" />
     <ClCompile Include="NumberSystems.cpp" />
