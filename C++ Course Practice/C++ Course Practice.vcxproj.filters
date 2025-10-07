@@ -168,6 +168,9 @@
     <ClCompile Include="IfStatements.cpp">
       <Filter>Source Files\14 Module</Filter>
     </ClCompile>
+    <ClCompile Include="ElseIf.cpp">
+      <Filter>Source Files\14 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">

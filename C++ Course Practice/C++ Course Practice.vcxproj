@@ -28,6 +28,7 @@
     <ClCompile Include="ConstantExpressions.cpp" />
     <ClCompile Include="Constant.cpp" />
     <ClCompile Include="Constinit.cpp" />
+    <ClCompile Include="ElseIf.cpp" />
     <ClCompile Include="ExplictDataConversions.cpp" />
     <ClCompile Include="IfStatements.cpp" />
     <ClCompile Include="ImplicitDataConversions.cpp" />
