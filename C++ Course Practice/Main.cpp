@@ -1,12 +1,12 @@
 ﻿#include <iostream>
-#include "12Module.h"
+#include "14Module.h"
 
 
 int main()
 {
 	std::cout << "Main Function - Start!" << std::endl;
 
-	Masks();
+	IfStatements();
 
 	return 0;
 }
