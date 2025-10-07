@@ -19,5 +19,22 @@ int IfStatements() {
         std::cout << "This will not be printed because resultBool is true" << std::endl;
     }
 
+    bool red = {false};
+    bool green = {true};
+    bool yellow = {false};
+    bool police_stop = {true};
+
+    /*
+        * If green: 'Go!'
+        * If red, yellow: 'Stop!'
+        * If green and police_stop: 'Stop!' 
+    */
+
+    if (green && !police_stop) {
+        std::cout << "Go!" << std::endl;
+    } else {
+        std::cout << "Stop!" << std::endl;
+    }
+
     return 0;
 }
