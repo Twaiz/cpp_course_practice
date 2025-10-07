@@ -65,6 +65,7 @@
     <ClInclude Include="10Module.h" />
     <ClInclude Include="12Module.h" />
     <ClInclude Include="13Module.h" />
+    <ClInclude Include="14Module.h" />
     <ClInclude Include="7Module.h" />
     <ClInclude Include="8Module.h" />
     <ClInclude Include="9Module.h" />
