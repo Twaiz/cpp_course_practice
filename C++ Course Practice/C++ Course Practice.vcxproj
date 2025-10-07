@@ -58,6 +58,7 @@
     <ClCompile Include="StatementsAndFunctions.cpp" />
     <ClCompile Include="TestShiftOperators.cpp" />
     <ClCompile Include="VariableLifetime.cpp" />
+    <ClCompile Include="VariableScope.cpp" />
     <ClCompile Include="WeirdIntegralTypes.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -159,6 +159,9 @@
     <ClCompile Include="VariableLifetime.cpp">
       <Filter>Source Files\13 Module</Filter>
     </ClCompile>
+    <ClCompile Include="VariableScope.cpp">
+      <Filter>Source Files\13 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">
