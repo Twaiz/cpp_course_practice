@@ -68,6 +68,7 @@
     <ClCompile Include="TestShiftOperators.cpp" />
     <ClCompile Include="VariableLifetime.cpp" />
     <ClCompile Include="VariableScope.cpp" />
+    <ClCompile Include="VariableScopeRevisited.cpp" />
     <ClCompile Include="WeirdIntegralTypes.cpp" />
   </ItemGroup>
   <ItemGroup>
