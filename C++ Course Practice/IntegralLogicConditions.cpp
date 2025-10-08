@@ -7,10 +7,10 @@ int IntegralLogicConditions() {
         std::cout << "False" << std::endl;
 	}
 
-	if (-10) {
-		std::cout << "Oops" << std::endl;
+	if (0) {
+		std::cout << "True" << std::endl;
 	} else {
-		std::cout << "Yeee" << std::endl;
+		std::cout << "False" << std::endl;
     }
 	
 	return 0; }
