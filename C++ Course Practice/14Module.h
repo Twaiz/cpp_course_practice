@@ -6,3 +6,4 @@ int ShortCircuitEvaluations();
 int IntegralLogicConditions();
 int TernaryOperator();
 int IfConstexpr();
+int IfWithInitializer();
