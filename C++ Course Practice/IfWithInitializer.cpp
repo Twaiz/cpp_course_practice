@@ -1,11 +1,11 @@
 #include <iostream>
 
 int IfWithInitializer() {
-    bool go = {false};
+    bool go = {true};
 
     if (int speed{55}; go) {
         if (speed > 5) {
-            std::cout << "You are going too fast!" << std::endl;
+            std::cout << "You are going too fast!" << speed << std::endl;
         } else {
             std::cout << "You are within the speed limit." << std::endl;
         }
