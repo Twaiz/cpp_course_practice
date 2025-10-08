@@ -6,4 +6,6 @@ int IfConstexpr() {
 	} else {
 		std::cout << "int is not 4 bytes\n";
     }
+
+	return 0;
 }
