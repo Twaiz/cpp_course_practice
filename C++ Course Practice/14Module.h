@@ -7,3 +7,4 @@ int IntegralLogicConditions();
 int TernaryOperator();
 int IfConstexpr();
 int IfWithInitializer();
+int SwitchWithInitializer();
