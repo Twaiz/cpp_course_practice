@@ -195,6 +195,9 @@
     <ClCompile Include="VariableScopeRevisited.cpp">
       <Filter>Source Files\14 Module</Filter>
     </ClCompile>
+    <ClCompile Include="SwitchScope.cpp">
+      <Filter>Source Files\14 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">
