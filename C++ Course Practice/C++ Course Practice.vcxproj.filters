@@ -186,6 +186,9 @@
     <ClCompile Include="IfConstexpr.cpp">
       <Filter>Source Files\14 Module</Filter>
     </ClCompile>
+    <ClCompile Include="IfWithInitializer.cpp">
+      <Filter>Source Files\14 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">

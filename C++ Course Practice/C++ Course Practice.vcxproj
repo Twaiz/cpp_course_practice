@@ -32,6 +32,7 @@
     <ClCompile Include="ExplictDataConversions.cpp" />
     <ClCompile Include="IfConstexpr.cpp" />
     <ClCompile Include="IfStatements.cpp" />
+    <ClCompile Include="IfWithInitializer.cpp" />
     <ClCompile Include="ImplicitDataConversions.cpp" />
     <ClCompile Include="IntegralLogicConditions.cpp" />
     <ClCompile Include="Literals.cpp" />
