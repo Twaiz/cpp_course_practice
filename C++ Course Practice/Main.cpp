@@ -6,7 +6,7 @@ int main()
 {
 	std::cout << "Main Function - Start!" << std::endl;
 
-	IntegralLogicConditions();
+	TernaryOperator();
 
 	return 0;
 }

@@ -4,3 +4,4 @@ int ElseIf();
 int Switch();
 int ShortCircuitEvaluations();
 int IntegralLogicConditions();
+int TernaryOperator();
