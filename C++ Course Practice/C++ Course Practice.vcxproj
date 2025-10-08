@@ -52,6 +52,7 @@
     <ClCompile Include="PackingColorInformation.cpp" />
     <ClCompile Include="ShortCircuitEvaluations.cpp" />
     <ClCompile Include="Switch.cpp" />
+    <ClCompile Include="SwitchWithInitializer.cpp" />
     <ClCompile Include="TernaryOperator.cpp" />
     <ClCompile Include="TestMasks.cpp" />
     <ClCompile Include="MathFunctions.cpp" />
