@@ -1,6 +1,6 @@
 #include <iostream>
 
-int IntegralLoficConditions() { 
+int IntegralLogicConditions() { 
 	if (10) {
         std::cout << "True" << std::endl;
     } else {

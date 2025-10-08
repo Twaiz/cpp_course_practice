@@ -32,7 +32,7 @@
     <ClCompile Include="ExplictDataConversions.cpp" />
     <ClCompile Include="IfStatements.cpp" />
     <ClCompile Include="ImplicitDataConversions.cpp" />
-    <ClCompile Include="IntegralLoficConditions.cpp" />
+    <ClCompile Include="IntegralLogicConditions.cpp" />
     <ClCompile Include="Literals.cpp" />
     <ClCompile Include="LogicalBitwiseOperators.cpp" />
     <ClCompile Include="LogicalOperators.cpp" />

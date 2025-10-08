@@ -177,7 +177,7 @@
     <ClCompile Include="ShortCircuitEvaluations.cpp">
       <Filter>Source Files\14 Module</Filter>
     </ClCompile>
-    <ClCompile Include="IntegralLoficConditions.cpp">
+    <ClCompile Include="IntegralLogicConditions.cpp">
       <Filter>Source Files\14 Module</Filter>
     </ClCompile>
   </ItemGroup>
