@@ -30,6 +30,7 @@
     <ClCompile Include="Constinit.cpp" />
     <ClCompile Include="ElseIf.cpp" />
     <ClCompile Include="ExplictDataConversions.cpp" />
+    <ClCompile Include="ForLoop.cpp" />
     <ClCompile Include="IfConstexpr.cpp" />
     <ClCompile Include="IfStatements.cpp" />
     <ClCompile Include="IfWithInitializer.cpp" />

@@ -201,6 +201,9 @@
     <ClCompile Include="SwitchScope.cpp">
       <Filter>Source Files\14 Module</Filter>
     </ClCompile>
+    <ClCompile Include="ForLoop.cpp">
+      <Filter>Source Files\15 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">
