@@ -1,12 +1,12 @@
 ﻿#include <iostream>
-#include "14Module.h"
+#include "15Module.h"
 
 
 int main()
 {
 	std::cout << "Main Function - Start!" << std::endl;
 
-	SwitchWithInitializer();
+	ForLoop();
 
 	return 0;
 }
