@@ -40,6 +40,9 @@
     <Filter Include="Source Files\14 Module">
       <UniqueIdentifier>{7afc8c4b-d269-4224-84c9-4917d7fc5e69}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\15 Module">
+      <UniqueIdentifier>{df926350-c5ba-44a8-988a-fdd26813e7f8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataInputAndOutput.cpp">
