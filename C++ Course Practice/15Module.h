@@ -1,3 +1,3 @@
 #pragma once
 int ForLoop();
-int LesonPracticeForLoop();
+int LessonPracticeForLoop();
