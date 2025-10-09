@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="113Lesson.cpp" />
+    <ClCompile Include="LesonPracticeForLoop.cpp" />
     <ClCompile Include="11Module.h" />
     <ClCompile Include="66Leson.cpp" />
     <ClCompile Include="BasicOperations.cpp" />
