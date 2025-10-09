@@ -227,6 +227,9 @@
     <ClInclude Include="14Module.h">
       <Filter>Source Files\14 Module</Filter>
     </ClInclude>
+    <ClInclude Include="15Module.h">
+      <Filter>Source Files\15 Module</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include=".clang-format" />
