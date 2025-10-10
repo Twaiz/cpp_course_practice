@@ -2,6 +2,8 @@
 #include <string>
 
 int LessonPracticeForLoop() {
+    /* FIRST TASK */
+
     const size_t COUNT = {99};
     size_t START_VALUE = {0};
     size_t sum = {0};
@@ -12,6 +14,8 @@ int LessonPracticeForLoop() {
     }
 
     std::cout << "Sum Value : " << sum << '\n';
+
+    /* SECOND TASK */
 
     std::string allCh = "";
 
