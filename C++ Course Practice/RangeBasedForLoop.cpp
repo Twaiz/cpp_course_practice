@@ -4,7 +4,7 @@
 int RangeBasedForLoop() {
     std::string arrNames[] = {"Vasya", "Petya", "Oleg"};
 
-    for (std:: string name : arrNames) {
+    for (std::string name : arrNames) {
         std::cout << name << std::endl;
     }
 
