@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CommaOperator.cpp" />
     <ClCompile Include="ForLoopMultipleDeclarations.cpp" />
     <ClCompile Include="LessonPracticeForLoop.cpp" />
     <ClCompile Include="11Module.h" />

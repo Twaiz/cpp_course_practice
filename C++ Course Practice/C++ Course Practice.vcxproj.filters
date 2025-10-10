@@ -210,6 +210,9 @@
     <ClCompile Include="ForLoopMultipleDeclarations.cpp">
       <Filter>Source Files\15 Module</Filter>
     </ClCompile>
+    <ClCompile Include="CommaOperator.cpp">
+      <Filter>Source Files\15 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">
