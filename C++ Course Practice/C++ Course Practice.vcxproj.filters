@@ -204,7 +204,7 @@
     <ClCompile Include="ForLoop.cpp">
       <Filter>Source Files\15 Module</Filter>
     </ClCompile>
-    <ClCompile Include="LessonPracticeForLoop.cpp">
+    <ClCompile Include="LessonPracticeLoops.cpp">
       <Filter>Source Files\15 Module</Filter>
     </ClCompile>
     <ClCompile Include="ForLoopMultipleDeclarations.cpp">

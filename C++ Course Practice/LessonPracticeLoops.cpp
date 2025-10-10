@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int LessonPracticeForLoop() {
+int LessonPracticeLoops() {
     /* FIRST TASK */
 
     const size_t COUNT = {99};
