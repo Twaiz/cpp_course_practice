@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ForLoopMultipleDeclarations.cpp" />
     <ClCompile Include="LessonPracticeForLoop.cpp" />
     <ClCompile Include="11Module.h" />
     <ClCompile Include="66Leson.cpp" />
