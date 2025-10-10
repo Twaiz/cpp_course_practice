@@ -5,7 +5,7 @@ int WhileLoop() {
     unsigned int COUT = {10};
 
     while (i < 10) {
-        std::cout << "Number : " << i << "/n";
+        std::cout << "Number : " << i << "\n";
         ++i;
     }
 
