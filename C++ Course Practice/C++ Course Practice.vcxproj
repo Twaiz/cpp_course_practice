@@ -22,6 +22,7 @@
     <ClCompile Include="CommaOperator.cpp" />
     <ClCompile Include="ForLoopMultipleDeclarations.cpp" />
     <ClCompile Include="HugeLoopsWithOutput.cpp" />
+    <ClCompile Include="InfiniteLoops.cpp" />
     <ClCompile Include="LessonPracticeLoops.cpp" />
     <ClCompile Include="11Module.h" />
     <ClCompile Include="66Leson.cpp" />
