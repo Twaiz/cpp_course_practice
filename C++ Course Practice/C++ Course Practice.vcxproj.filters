@@ -213,6 +213,9 @@
     <ClCompile Include="CommaOperator.cpp">
       <Filter>Source Files\15 Module</Filter>
     </ClCompile>
+    <ClCompile Include="RangeBasedForLoop.cpp">
+      <Filter>Source Files\15 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">
