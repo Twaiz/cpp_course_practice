@@ -5,3 +5,4 @@ int ForLoopMultipleDeclarations();
 int CommaOperator();
 int RangeBasedForLoop();
 int WhileLoop();
+int HugeLoopsWithOutput();
