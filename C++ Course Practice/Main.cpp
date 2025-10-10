@@ -6,7 +6,7 @@ int main()
 {
 	std::cout << "Main Function - Start!" << std::endl;
 
-	ForLoopMultipleDeclarations();
+	LessonPracticeForLoop();
 
 	return 0;
 }
