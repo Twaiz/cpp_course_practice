@@ -33,5 +33,20 @@ int LessonPracticeForLoop() {
 
     std::cout << "All Characters : " << allCh << '\n';
 
+    // THIRD TASK
+
+    unsigned int numbers[] = {1, 21, 4, 5, 7, 3, 9, 3, 5, 17, 15};
+    unsigned int sumNumbers = {0};
+
+
+    for (auto number : numbers) {
+        if (number % 3 == 0) {
+            std::cout << "Number : " << number << '\n';
+            sumNumbers += 1;
+        }
+    }
+
+    std::cout << "All numbers : " << sumNumbers << '\n';
+
     return 0;
 }
