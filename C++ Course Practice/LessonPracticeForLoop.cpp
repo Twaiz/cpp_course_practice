@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 int LessonPracticeForLoop() {
     const size_t COUNT = {99};
@@ -12,13 +13,21 @@ int LessonPracticeForLoop() {
 
     std::cout << "Sum Value : " << sum << '\n';
 
-    unsigned char ch = 'A';
-    std::cout << "Character : " << ch << " ASCII Value : " << static_cast<int>(ch) << '\n';
+    std::string allCh = "";
 
-    /*for (size_t i{101}; i <= 132; ++i) {
+    for (size_t i{65}; i <= 90; ++i) {
         unsigned char ch = static_cast<unsigned char>(i);
-        std::cout << "ASCII Value : " << i << " Character : " << ch << '\n';
-    }*/
+        
+        if (i == 65) {
+            allCh += ch;
+            continue;
+        }
+
+        allCh += " ";
+        allCh += ch;
+    }
+
+    std::cout << "All Characters : " << allCh << '\n';
 
     return 0;
 }
