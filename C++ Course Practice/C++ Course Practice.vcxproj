@@ -76,6 +76,7 @@
     <ClCompile Include="VariableScope.cpp" />
     <ClCompile Include="VariableScopeRevisited.cpp" />
     <ClCompile Include="WeirdIntegralTypes.cpp" />
+    <ClCompile Include="WhileLoop.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="10Module.h" />
