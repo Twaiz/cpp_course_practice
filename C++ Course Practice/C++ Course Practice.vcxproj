@@ -54,6 +54,7 @@
     <ClCompile Include="Lesson46.cpp" />
     <ClCompile Include="Masks.cpp" />
     <ClCompile Include="MasksExample.cpp" />
+    <ClCompile Include="NestedLoops.cpp" />
     <ClCompile Include="OverflowAndUnderflow.cpp" />
     <ClCompile Include="PackingColorInformation.cpp" />
     <ClCompile Include="RangeBasedForLoop.cpp" />
