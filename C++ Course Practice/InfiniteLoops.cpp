@@ -1,5 +1,3 @@
 #include <iostream>
 
-int InfiniteLoops() {
-
-}
+int InfiniteLoops() { return 0; }

@@ -11,4 +11,6 @@ int NestedLoops() { const size_t ROWS = {12};
 
         std::cout << '\n';
     }
+
+    return 0;
 }
