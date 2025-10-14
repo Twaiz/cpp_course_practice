@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdlib>
 
 int InfiniteLoopsPractice() {
     int number1 = {0};
@@ -42,6 +43,7 @@ int InfiniteLoopsPractice() {
             case 'y':
             case 'Y':
                 continueCalculation = true;
+                std::system("cls");  // Use "clear" for Unix-based systems
                 break;
             case 'n':
             case 'N':
