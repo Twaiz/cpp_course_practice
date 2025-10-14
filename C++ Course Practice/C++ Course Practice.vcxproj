@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CommaOperator.cpp" />
+    <ClCompile Include="DecrementingLoops.cpp" />
     <ClCompile Include="DoWhileLoop.cpp" />
     <ClCompile Include="ForLoopMultipleDeclarations.cpp" />
     <ClCompile Include="HugeLoopsWithOutput.cpp" />
