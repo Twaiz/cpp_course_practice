@@ -6,7 +6,7 @@ int main()
 {
 	std::cout << "Main Function - Start!" << std::endl;
 
-	NestedLoops();
+	InfiniteLoopsPractice();
 
 	return 0;
 }
