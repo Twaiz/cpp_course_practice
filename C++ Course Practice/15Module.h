@@ -6,3 +6,4 @@ int CommaOperator();
 int RangeBasedForLoop();
 int WhileLoop();
 int HugeLoopsWithOutput();
+int NestedLoops();
