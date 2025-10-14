@@ -237,6 +237,9 @@
     <ClCompile Include="DecrementingLoops.cpp">
       <Filter>Source Files\15 Module</Filter>
     </ClCompile>
+    <ClCompile Include="BreakAndContinue.cpp">
+      <Filter>Source Files\15 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">
