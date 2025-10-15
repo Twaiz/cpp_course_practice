@@ -246,6 +246,9 @@
     <ClCompile Include="16Module.h">
       <Filter>Source Files\16 Module</Filter>
     </ClCompile>
+    <ClCompile Include="DeclaringAndUsingArrays.cpp">
+      <Filter>Source Files\16 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">

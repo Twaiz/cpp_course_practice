@@ -22,6 +22,7 @@
     <ClCompile Include="16Module.h" />
     <ClCompile Include="BreakAndContinue.cpp" />
     <ClCompile Include="CommaOperator.cpp" />
+    <ClCompile Include="DeclaringAndUsingArrays.cpp" />
     <ClCompile Include="DecrementingLoops.cpp" />
     <ClCompile Include="DoWhileLoop.cpp" />
     <ClCompile Include="ForLoopMultipleDeclarations.cpp" />
