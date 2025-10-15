@@ -43,6 +43,9 @@
     <Filter Include="Source Files\15 Module">
       <UniqueIdentifier>{df926350-c5ba-44a8-988a-fdd26813e7f8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\16 Module">
+      <UniqueIdentifier>{d3b408f6-e7e4-4e5a-a428-9a32ea45c2c5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataInputAndOutput.cpp">
@@ -239,6 +242,9 @@
     </ClCompile>
     <ClCompile Include="BreakAndContinue.cpp">
       <Filter>Source Files\15 Module</Filter>
+    </ClCompile>
+    <ClCompile Include="16Module.h">
+      <Filter>Source Files\16 Module</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

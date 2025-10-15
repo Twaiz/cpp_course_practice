@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="16Module.h" />
     <ClCompile Include="BreakAndContinue.cpp" />
     <ClCompile Include="CommaOperator.cpp" />
     <ClCompile Include="DecrementingLoops.cpp" />
