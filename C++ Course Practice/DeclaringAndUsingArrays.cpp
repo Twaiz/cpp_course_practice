@@ -19,7 +19,14 @@ int DeclaringAndUsingArrays() {
     */
 
     int numbers3[5] {1, 2};
-    for (int number2{0}; number2 < 5; ++number2) {
+
+    std::cout << sizeof(numbers3) << std::endl;
+    std::cout << sizeof(numbers3[0]) << std::endl;
+    std::cout << sizeof(numbers3) / sizeof(numbers3[0]) << std::endl; // Способ как узнать длину массива - 1 Вариант
+    std::cout << std::size(numbers3) << std::endl; // Способ как узнать длину массива - 2 Вариант
+
+
+    for (int number2{0}; number2 < std::size(numbers3); ++number2) {
         numbers3[number2] = numbers3[number2] + number2;
         std::cout << numbers3[number2] << std::endl;
     }
