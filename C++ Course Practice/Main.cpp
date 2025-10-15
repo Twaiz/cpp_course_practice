@@ -1,12 +1,12 @@
 ﻿#include <iostream>
-#include "15Module.h"
+#include "16Module.h"
 
 
 int main()
 {
 	std::cout << "Main Function - Start!" << std::endl;
 
-	InfiniteLoopsPractice();
+	DeclaringAndUsingArrays();
 
 	return 0;
 }
