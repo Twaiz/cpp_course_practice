@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="16Module.h" />
+    <ClCompile Include="ArraysOfCharacters.cpp" />
     <ClCompile Include="BreakAndContinue.cpp" />
     <ClCompile Include="CommaOperator.cpp" />
     <ClCompile Include="DeclaringAndUsingArrays.cpp" />
