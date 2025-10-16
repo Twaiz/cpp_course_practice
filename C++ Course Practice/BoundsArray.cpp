@@ -10,10 +10,12 @@ int BoundsArray() {
         ++index;
     }
 
+    /*
     // What if we access out of bound element
     std::cout << "Accessing out of bound element : " << numbers[10] << std::endl;
     numbers[10] = 100;  // Writing to out of bound element
     std::cout << "After writing to out of bound element : " << numbers[10] << std::endl;
+    */
 
     return 0;
 }
