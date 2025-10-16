@@ -28,6 +28,7 @@
     <ClCompile Include="DecrementingLoops.cpp" />
     <ClCompile Include="DoWhileLoop.cpp" />
     <ClCompile Include="ForLoopMultipleDeclarations.cpp" />
+    <ClCompile Include="GeneratingRandomNumbers.cpp" />
     <ClCompile Include="HugeLoopsWithOutput.cpp" />
     <ClCompile Include="InfiniteLoops.cpp" />
     <ClCompile Include="InfiniteLoopsPractice.cpp" />
