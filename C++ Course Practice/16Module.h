@@ -4,3 +4,4 @@ int ArraysOfCharacters();
 int SizeOfAnArray();
 int BoundsArray();
 int GeneratingRandomNumbers();
+int EliminatingDuplicates();
