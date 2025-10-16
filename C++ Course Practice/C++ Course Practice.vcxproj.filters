@@ -252,6 +252,9 @@
     <ClCompile Include="ArraysOfCharacters.cpp">
       <Filter>Source Files\16 Module</Filter>
     </ClCompile>
+    <ClCompile Include="SizeOfAnArray.cpp">
+      <Filter>Source Files\16 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">
