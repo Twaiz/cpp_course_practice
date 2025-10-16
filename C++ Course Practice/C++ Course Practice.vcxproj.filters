@@ -261,6 +261,9 @@
     <ClCompile Include="GeneratingRandomNumbers.cpp">
       <Filter>Source Files\16 Module</Filter>
     </ClCompile>
+    <ClCompile Include="EliminatingDuplicates.cpp">
+      <Filter>Source Files\16 Module</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9Module.h">

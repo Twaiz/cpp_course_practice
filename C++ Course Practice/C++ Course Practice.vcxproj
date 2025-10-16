@@ -27,6 +27,7 @@
     <ClCompile Include="DeclaringAndUsingArrays.cpp" />
     <ClCompile Include="DecrementingLoops.cpp" />
     <ClCompile Include="DoWhileLoop.cpp" />
+    <ClCompile Include="EliminatingDuplicates.cpp" />
     <ClCompile Include="ForLoopMultipleDeclarations.cpp" />
     <ClCompile Include="GeneratingRandomNumbers.cpp" />
     <ClCompile Include="HugeLoopsWithOutput.cpp" />
